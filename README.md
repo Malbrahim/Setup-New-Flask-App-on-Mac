@@ -48,7 +48,7 @@ def index():
 
 **Set the FLASK_APP system variable**
 
-```(venv) $ export FLASK_APP=my_new_flask_app.py```
+```(venv) $ export FLASK_APP=my_new_flask_app.py FLASK_DEBUG=TRUE```
 
 
 **Run Flask**
