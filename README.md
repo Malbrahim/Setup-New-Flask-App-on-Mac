@@ -35,14 +35,14 @@
 
 **Now write the actual python code for your flask application. We’ll call our python script my_new_flask_app.py. Save this script in your MyNewFlaskApp directory.**
 
-```from flask import Flask
+```
+from flask import Flask
 
 app = Flask(__name__)
 
 @app.route('/')
 def index():
     return 'hello, world'
-view rawmy_new_flask_app.py hosted with ❤ by GitHub
 ```
 
 
